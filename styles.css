@@ -251,9 +251,9 @@ footer {
 .attribution a {
   color: var(--yellow-d);
 }
-@media (min-width: 768px) {
+@media (min-width: 48rem) {
   .c-card-container {
-    width: min(100%, 1020px);
+    width: min(100%, 63.75rem);
   }
   .grid-container {
     grid-template-columns: repeat(4, 1fr);
